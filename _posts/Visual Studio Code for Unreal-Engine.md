@@ -1,3 +1,8 @@
+---
+layout: post
+titl: Visual Studio Code for Unreal-Engine
+---
+
 # Visual Studio Code for Unreal-Engine
 
 언리얼을 쓰던 중 .. 최근 들어 VS 가 너무 크다고 생각이 들었다. 마음에 안든건 아니지만 잠시 실증 같은게 난 것 같은 기분.
